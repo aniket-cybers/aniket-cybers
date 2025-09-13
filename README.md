@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 👋 aniket-cybers here
 
+' new to the cyber world but i promise i will lead soon '
+not from a tech background but a hardcore tech enthusiast
 <!--
 **aniket-cybers/aniket-cybers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
